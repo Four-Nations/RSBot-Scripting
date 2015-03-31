@@ -14,7 +14,7 @@ import org.powerbot.script.Script;
 import org.powerbot.script.rt6.ClientContext;
 import org.powerbot.script.rt6.Constants;
 
-@Script.Manifest(name = "FN Headless-Arrows", description = "Crafts headless arrows or picks up feathers.", properties = "topic=1250649;client=6;vip=false;hidden=false;")
+@Script.Manifest(name = "FN Headless-Arrows", description = "Fletches headless arrows or picks up feathers.", properties = "topic=1250649;client=6;vip=false;hidden=false;")
 public class HeadlessArrows extends PollingScript<ClientContext> implements PaintListener {
 
 	@SuppressWarnings("rawtypes")
