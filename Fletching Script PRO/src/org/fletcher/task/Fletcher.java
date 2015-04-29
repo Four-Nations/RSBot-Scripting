@@ -14,7 +14,7 @@ import org.powerbot.script.rt6.Component;
 import org.powerbot.script.rt6.Constants;
 
 @Script.Manifest(name = "FN Fletcher PRO",
-description = "Fletchers all major logs, cuts and strings.",
+description = "Fletchers all major logs, cuts and strings, supports bank presets.",
 properties = "topic=1250649;client=6;vip=false;")
 public class Fletcher extends PollingScript<ClientContext> implements PaintListener {
 
