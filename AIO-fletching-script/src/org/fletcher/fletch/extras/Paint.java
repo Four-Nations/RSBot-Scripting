@@ -1,4 +1,4 @@
-package org.fletcher.flech.extras;
+package org.fletcher.fletch.extras;
 
 import java.awt.Graphics;
 import java.awt.Graphics2D;
